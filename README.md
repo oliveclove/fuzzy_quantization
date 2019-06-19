@@ -1,0 +1,3 @@
+# fuzzy_quantization
+apply in sentimental analyse
+基于MMTD对副词进行情感量化并运用到中文陈述句的情感倾向分析中
